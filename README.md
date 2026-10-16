@@ -7,9 +7,9 @@
      - Conteúdo didático da IA
     Criar automatização de conteúdo monetizado nos canais de videos e newsletters
 # Programação WEB
-    HTML
-    CSS
-    JS
-    API
-    NODE
-    SQL
+- HTML
+- CSS
+- JS
+- API
+- NODE
+- SQL
